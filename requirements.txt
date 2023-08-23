@@ -5,7 +5,7 @@ scikit-learn
 IPython~=7.24.1
 vit_pytorch
 timm==0.3.2
-torch~=1.9.0
+torch~=1.11.0
 torchvision~=0.10.0
 numpy~=1.21.0
 scikit-learn~=0.24.2
