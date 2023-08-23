@@ -1,7 +1,7 @@
-opencv-python~=4.5.2.54
+opencv-python~=4.5.2
 mxnet~=1.8.0.post0
 matplotlib~=3.4.2
-sklearn~=0.0
+sklearn
 IPython~=7.24.1
 vit_pytorch
 timm==0.3.2
